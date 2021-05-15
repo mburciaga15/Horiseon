@@ -49,8 +49,9 @@ a {
 p {
     font-size: 16px;
 }
+/*hero styles*/
 
-hero {
+.hero {
     height: 800px;
     width: 100%;
     margin-bottom: 25px;
@@ -74,6 +75,8 @@ hero {
     display: inline-block;
     margin-left: 20px;
 }
+
+/* styles regarding benefits of using Horiseon begin*/
 
 .benefits {
     margin-right: 20px;
@@ -133,6 +136,8 @@ hero {
     margin: 10px auto;
     max-width: 150px;
 }
+/*styles regarding sections of search engine optimization, online reputation management, and
+social media marketing begin*/
 
 .search-engine-optimization {
     margin-bottom: 20px;
@@ -188,6 +193,7 @@ hero {
     font-size: 36px;
 }
 
+/* styles concerning footer begin*/
 footer {
     padding: 30px;
     clear: both;
