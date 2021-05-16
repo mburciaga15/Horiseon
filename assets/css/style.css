@@ -44,12 +44,8 @@ header a {
     color: #ffffff;
     text-decoration: none;
 }
-/*unsure what this is for lol*/ 
-header p {
-    font-size: 16px;
-}
-/*hero styles*/
 
+/*hero styles*/
 .hero {
     height: 800px;
     width: 100%;
