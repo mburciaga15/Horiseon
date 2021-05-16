@@ -31,7 +31,7 @@ The above copyright notice and this permission notice shall be included in all c
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
 ## LINKS 
-As my project is deployed, this is the link to it: [https://mburciaga15.github.io/Horiseon/] The project and its code is stored in the repository titles "Horiseon-New-and-Improved". This is the link to the repository: [https://github.com/mburciaga15/Horiseon-New-and-Improved.git]
+As my project is deployed, this is the link to it: [https://mburciaga15.github.io/Horiseon-New-and-Improved/] The project and its code is stored in the repository titles "Horiseon-New-and-Improved". This is the link to the repository: [https://github.com/mburciaga15/Horiseon-New-and-Improved.git]
 
 
 
